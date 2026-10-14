@@ -1,0 +1,4 @@
+﻿python-dotenv
+requests
+firebase-admin
+jsonschema
